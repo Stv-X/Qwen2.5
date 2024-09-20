@@ -46,7 +46,7 @@ master branch automatically cloned by running:
 
 .. code:: bash
 
-   # NOTE: '--platform linux/amd64' is needed for Apple Silicon Macs
+   # NOTE: '--platform linux/amd64' is needed for Apple silicon Macs
    docker run --platform linux/amd64 \
      -td --rm --name sky \
      -v "$HOME/.sky:/root/.sky:rw" \

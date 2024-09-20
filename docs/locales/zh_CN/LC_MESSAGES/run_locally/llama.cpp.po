@@ -41,8 +41,8 @@ msgid "AVX, AVX2 and AVX512 support for x86_64 CPU"
 msgstr "x86_64 CPU的AVX、AVX2和AVX512支持"
 
 #: ../../source/run_locally/llama.cpp.md:14 a8781d7af4b3496faa9462ab25df75c6
-msgid "Apple Silicon via Metal and Accelerate (CPU and GPU)"
-msgstr "通过Metal和Accelerate支持Apple Silicon（CPU和GPU）"
+msgid "Apple silicon via Metal and Accelerate (CPU and GPU)"
+msgstr "通过Metal和Accelerate支持Apple silicon（CPU和GPU）"
 
 #: ../../source/run_locally/llama.cpp.md:15 817251e8530644f3b06016ee99c2e3d6
 msgid "NVIDIA GPU (via CUDA), AMD GPU (via hipBLAS), Intel GPU (via SYCL), Ascend NPU (via CANN), and Moore Threads GPU (via MUSA)"
@@ -221,8 +221,8 @@ msgid "`<os>`: the operating system. `win` for Windows; `macos` for macOS; `linu
 msgstr "`<os>`：操作系统。`win`代表Windows；`macos`代表macOS；`linux`代表Linux。"
 
 #: ../../source/run_locally/llama.cpp.md:142 4dfb9119ff7f4d8aba4bf47b98152fb6
-msgid "`<arch>`: the system architecture. `x64` for `x86_64`, e.g., most Intel and AMD systems, including Intel Mac; `arm64` for `arm64`, e.g., Apple Silicon or Snapdragon-based systems."
-msgstr "`<arch>`：系统架构。`x64`对应`x86_64`，例如大多数Intel和AMD系统，包括Intel Mac；`arm64`对应`arm64`，例如Apple Silicon或基于Snapdragon的系统。"
+msgid "`<arch>`: the system architecture. `x64` for `x86_64`, e.g., most Intel and AMD systems, including Intel Mac; `arm64` for `arm64`, e.g., Apple silicon or Snapdragon-based systems."
+msgstr "`<arch>`：系统架构。`x64`对应`x86_64`，例如大多数Intel和AMD系统，包括Intel Mac；`arm64`对应`arm64`，例如Apple silicon或基于Snapdragon的系统。"
 
 #: ../../source/run_locally/llama.cpp.md:144 c9ea5c26eac74cd9a6433bd765dac1d4
 msgid "The `<feature>` part is somewhat complicated for Windows:"
@@ -285,8 +285,8 @@ msgid "Linux: only one prebuilt binary, `llama-<version>-bin-linux-x64.zip`, sup
 msgstr "Linux：仅有一个预构建的二进制文件`llama-<version>-bin-linux-x64.zip`，支持CPU。"
 
 #: ../../source/run_locally/llama.cpp.md:160 79c4c9bcd55f4ca2b08054bf846d10bd
-msgid "macOS: `llama-<version>-bin-macos-x64.zip` for Intel Mac with no GPU support; `llama-<version>-bin-macos-arm64.zip` for Apple Silicon with GPU support."
-msgstr "macOS：对于Intel Mac，使用`llama-<version>-bin-macos-x64.zip`（不支持GPU）；对于Apple Silicon，使用`llama-<version>-bin-macos-arm64.zip`（支持GPU）。"
+msgid "macOS: `llama-<version>-bin-macos-x64.zip` for Intel Mac with no GPU support; `llama-<version>-bin-macos-arm64.zip` for Apple silicon with GPU support."
+msgstr "macOS：对于Intel Mac，使用`llama-<version>-bin-macos-x64.zip`（不支持GPU）；对于Apple silicon，使用`llama-<version>-bin-macos-arm64.zip`（支持GPU）。"
 
 #: ../../source/run_locally/llama.cpp.md:162 cc9ad51d6c294d1fa5a1607728ba2b76
 msgid "After downloading the `.zip` file, unzip them into a directory and open a terminal at that directory."

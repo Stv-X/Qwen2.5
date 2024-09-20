@@ -21,8 +21,8 @@ msgid "Ollama"
 msgstr "Ollama"
 
 #: ../../source/run_locally/ollama.md:3 13089a9172944dad96ea28917a956455
-msgid "[Ollama](https://ollama.com/) helps you run LLMs locally with only a few commands. It is available at MacOS, Linux, and Windows. Now, Qwen2.5 is officially on Ollama, and you can run it with one command:"
-msgstr "[Ollama](https://ollama.com/)帮助您通过少量命令即可在本地运行LLM。它适用于MacOS、Linux和Windows操作系统。现在，Qwen2.5正式上线Ollama，您只需一条命令即可运行它："
+msgid "[Ollama](https://ollama.com/) helps you run LLMs locally with only a few commands. It is available at macOS, Linux, and Windows. Now, Qwen2.5 is officially on Ollama, and you can run it with one command:"
+msgstr "[Ollama](https://ollama.com/)帮助您通过少量命令即可在本地运行LLM。它适用于macOS、Linux和Windows操作系统。现在，Qwen2.5正式上线Ollama，您只需一条命令即可运行它："
 
 #: ../../source/run_locally/ollama.md:11 180dd973001948e6b7079372d1a85662
 msgid "Next, we introduce more detailed usages of Ollama for running Qwen2.5 models."

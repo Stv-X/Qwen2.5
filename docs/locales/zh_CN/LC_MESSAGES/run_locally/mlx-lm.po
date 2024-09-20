@@ -19,12 +19,12 @@ msgstr ""
 "Generated-By: Babel 2.15.0\n"
 
 #: ../../source/run_locally/mlx-lm.md:1 61c8baf11c744edcba28e78965503480
-msgid "MLX-LM"
+msgid "MLX LM"
 msgstr ""
 
 #: ../../source/run_locally/mlx-lm.md:3 383638a8f5bc4be89d462a0227a098e3
-msgid "[mlx-lm](https://github.com/ml-explore/mlx-examples/tree/main/llms) helps you run LLMs locally on Apple Silicon.  It is available at MacOS.  It has already supported Qwen models and this time, we have also provided checkpoints that you can directly use with it."
-msgstr "[mlx-lm](https://github.com/ml-explore/mlx-examples/tree/main/llms)能让你在Apple Silicon上运行大型语言模型，适用于MacOS。mlx-lm已支持Qwen模型，此次我们提供直接可用的模型文件。"
+msgid "[mlx-lm](https://github.com/ml-explore/mlx-examples/tree/main/llms) helps you run LLMs locally on Apple silicon.  It is available at macOS.  It has already supported Qwen models and this time, we have also provided checkpoints that you can directly use with it."
+msgstr "[mlx-lm](https://github.com/ml-explore/mlx-examples/tree/main/llms)能让你在Apple silicon上运行大型语言模型，适用于macOS。mlx-lm已支持Qwen模型，此次我们提供直接可用的模型文件。"
 
 #: ../../source/run_locally/mlx-lm.md:7 e8a5a01e2cfc4e47a9956419b6b29ff0
 msgid "Prerequisites"
